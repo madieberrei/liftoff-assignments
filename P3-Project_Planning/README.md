@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[Wireframes on Figma](https://www.figma.com/file/x69sQZ3wMu0clZrAfQ33vx/allerEMS?node-id=0%3A1)
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+[Trello Board](https://trello.com/b/hc3dI4Rn/lift-off-project)
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+[GitHub Repo](https://github.com/madieberrei/allerEMS)
